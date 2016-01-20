@@ -7,7 +7,7 @@ public class MyStuff {
 
     public int myAnswer(int number) {
 
-        return numberr * 2;
+        return number * 2;
 
     }
 
