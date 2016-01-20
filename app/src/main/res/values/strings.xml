@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-
     <string name="hello_world">And we change the text again!</string>
     <string name="action_settings">Settings</string>
 </resources>
